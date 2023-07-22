@@ -17,7 +17,7 @@ const App = () => {
   }
   return (
     <div className="App">
-      <h1>To Do Lists</h1>
+      <h1>Task Book</h1>
       <input placeholder="New Task" onChange={updateValue} value={newTask} />
       <button onClick={addTask}>+</button>
       <ul>

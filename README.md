@@ -1,8 +1,8 @@
-# To Do List - React App
+# Task Book - React App
 
 ## Description
 
-"To Do List" is a simple and intuitive web application built using React. It allows users to create, manage, and organize their tasks in a digital notebook-like interface. With this app, users can add new tasks, and delete tasks they no longer need.
+"Task Book" is a simple and intuitive web application built using React. It allows users to create, manage, and organize their tasks in a digital notebook-like interface. With this app, users can add new tasks, and delete tasks they no longer need.
 
 ## Features
 
@@ -17,12 +17,12 @@
 
 ## Getting Started
 
-Follow the steps below to run the "To Do List" application on your local machine:
+Follow the steps below to run the "Task Book" application on your local machine:
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/to-do-list-react.git
+git clone https://github.com/Animesh606/Task-Book.git
 ```
 
 2. Visit root directory and Install npm packages
